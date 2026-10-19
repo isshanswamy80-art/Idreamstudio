@@ -1,0 +1,13 @@
+# Image placement guide
+
+The separate PNG artwork is already connected to the pages:
+
+- 00_full_cinematic_poster.png — Home hero/background
+- 01_hero_cinematic_couple.png — Home visual gallery / storytelling
+- 02_wedding_cinematic.png — Home + Services wedding visual
+- 03_camera_filmmaker.png — Home + About + Local Ads filmmaking visual
+- 04_wedding_indian_couple.png — Home + Services wedding visual
+- 05_cinematic_castle_background.png — Home + Local Ads cinematic visual
+- 06_cinematic_family_story.png — Home + Services family visual
+
+To change an image, edit the `src="assets/..."` value in the HTML file.
